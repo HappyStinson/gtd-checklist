@@ -64,7 +64,7 @@ You can’t do everything, so cut out the nonessential.
 
 ## After your review
 
-Log these items somewhere: in a notepad, Word document, Evernote, or etc.
+Log these items somewhere: in a notepad, Word document, Evernote, journal etc.
 
 - [ ] What went well this week?
 - [ ] What could be adjusted?
@@ -76,7 +76,10 @@ Log these items somewhere: in a notepad, Word document, Evernote, or etc.
 ## Bonus
 
 - [ ] Break down this weeks goal(s) into daily tasks (small steps = Next Actions)
-- [ ] Clear browsing data
+- [ ] Clear browsing data (history + cache)
+- [ ] Evaluate and purge tasks older than 90 days
+- [ ] Review last weeks purchases
+- [ ] Empty trash folder
 
 ### Eisenhower Priority Matrix
 
@@ -110,5 +113,3 @@ Do this review on the last weekend in December, March, June and September.
 ## The Year End Review
 
 Do this review sometime in December to reflect on the past 12 months.
-
-[More information...](https://docs.google.com/document/d/1XTOgRDk-2lVlua4mlO95rIFEK1N6crkmJvPUN2BDbpc/edit#heading=h.grv8c0l82hcy) (in Swedish).

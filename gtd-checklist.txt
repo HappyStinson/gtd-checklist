@@ -1,1 +1,3 @@
-ss
+Glöm inte bort att ta bort
+disabled="" från genererade checkboxar...
+Borde gå att göra ett enkelt skript som triggas i samband med skapandet/uppdateringen av html
